@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50736265286",
+    "project_id": "effortless-fort-366620",
+    "storage_bucket": "effortless-fort-366620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50736265286:android:ac6f09de9ca4ddfeea3247",
+        "android_client_info": {
+          "package_name": "com.hcgmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50736265286-5br6kumpt5tg45f6d5fn34bohe8daljs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdcMrq2opl77cODnLBqzaEV8ePf0Gixy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50736265286-5br6kumpt5tg45f6d5fn34bohe8daljs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
